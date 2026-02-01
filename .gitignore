@@ -99,9 +99,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-# project specifics
-old/
-
-# customized variant of get_token_template.py
-get_token.py
